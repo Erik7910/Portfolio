@@ -34,6 +34,7 @@ img{
 }
 .main-img{
     width: 30%;
+    height: 30%;
 }
 #name,#about{
     margin: 24px 0px;
