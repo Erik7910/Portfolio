@@ -34,9 +34,9 @@ img{
 }
 .main-img{
     width: 30%;
-    height: 30%;
+    height: auto;
 }
-#name,#about{
+#name{
     margin: 24px 0px;
 }
 .projects{
